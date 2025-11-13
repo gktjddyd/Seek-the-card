@@ -1,0 +1,45 @@
+﻿  _myApp_.cpp
+C:\Users\HUMAN\source\repos\CGP2023\include\sb7.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\HUMAN\source\repos\CGP2023\include\vmath.h(1022,13): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HUMAN\source\repos\CGP2023\_myApp_\_myApp_.cpp(15,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\HUMAN\source\repos\CGP2023\_myApp_\Model.h(152,1): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HUMAN\source\repos\CGP2023\_myApp_\Model.h(154,1): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HUMAN\source\repos\CGP2023\_myApp_\_myApp_.cpp(999,12): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HUMAN\source\repos\CGP2023\_myApp_\_myApp_.cpp(1000,12): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HUMAN\source\repos\CGP2023\_myApp_\_myApp_.cpp(1006,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HUMAN\source\repos\CGP2023\_myApp_\_myApp_.cpp(1007,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HUMAN\source\repos\CGP2023\_myApp_\_myApp_.cpp(1117,13): warning C4244: '초기화 중': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\HUMAN\source\repos\CGP2023\_myApp_\_myApp_.cpp(1118,13): warning C4244: '초기화 중': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\HUMAN\source\repos\CGP2023\_myApp_\_myApp_.cpp(1124,27): warning C4244: '=': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\HUMAN\source\repos\CGP2023\_myApp_\_myApp_.cpp(1125,27): warning C4244: '=': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+glfw3_d.lib(context.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(context.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(gamma.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(gamma.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(init.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(init.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(input.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(input.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(monitor.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(monitor.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(time.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(time.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(window.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(window.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(win32_gamma.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(win32_gamma.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(win32_init.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(win32_init.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(win32_joystick.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(win32_joystick.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(win32_monitor.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(win32_monitor.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(win32_time.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(win32_time.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(win32_window.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(win32_window.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3_d.lib(wgl_context.obj) : warning LNK4099: 'glfw3.pdb' PDB를 'glfw3_d.lib(wgl_context.obj)' 또는 'C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\glfw3.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  _myApp_.vcxproj -> C:\Users\HUMAN\source\repos\CGP2023\x64\Debug\_myApp_.exe
