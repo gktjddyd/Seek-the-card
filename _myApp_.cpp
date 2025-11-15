@@ -12,7 +12,7 @@
 #include <conio.h>
 #include <mmsystem.h>
 #pragma comment(lib,"winmm.lib")
-#include <mmsystem.h>;
+
 
 
 #define STB_IMAGE_IMPLEMENTATION
